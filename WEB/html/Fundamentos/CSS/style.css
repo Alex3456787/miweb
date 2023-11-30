@@ -1,0 +1,156 @@
+
+
+.margen{
+    text-decoration: underline;
+    text-align: center;
+}
+
+#fondo{
+   
+    background-image: url('foto.png');
+    background-size: cover;
+    
+}
+.links{
+    border-style: groove;
+    border-color: blue;
+    text-align: center;
+}
+a:link {   
+    text-decoration: none; 
+    color: coral;   
+}
+
+a:visited{
+    color: coral;
+}
+a:hover {
+    color: rgb(7, 196, 248); 
+}
+.descripcion{
+    text-align: justify;
+    
+}
+.fondo2{
+    background-color: rgb(196, 225, 225);
+}
+h1{
+    text-align: center;
+}
+.rsi{
+   margin-left: 15.5cm;
+}
+.rst{
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+.car{
+    margin-left: 14cm;
+}
+.fon{
+    background-color: rgb(173, 208, 210);
+}
+
+/* Reset de estilos para el body y el encabezado */
+body,  h3 {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para el body */
+.contacto{
+    font-family: Arial, sans-serif;
+    
+    color: #333;
+}
+
+/* Estilo para el encabezado h1 */
+.contacto {
+    text-align: center;
+    color: #4a4489; /* Azul brillante, puedes cambiarlo según tu preferencia */
+}
+
+/* Estilo para el menú de navegación */
+h2.links {
+    text-align: center;
+}
+
+
+
+
+/* Estilo para los formularios */
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+/* Estilo para el botón de enviar */
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+/* Estilo para el espacio entre formularios */
+br {
+    margin-bottom: 15px;
+}
+.fondofunda{
+    background-color: rgb(161, 190, 198);
+}
+/* Estilo para la tabla */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+/* Estilo para las celdas de encabezado (th) */
+th {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    text-align: left;
+}
+
+/* Estilo para las celdas de datos (td) */
+td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+/* Estilo para las filas impares */
+tr:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+/* Estilo para resaltar cuando se pasa el ratón sobre una fila */
+tr:hover {
+    background-color: #61b073;
+}
+.fondonet{
+    background-color: rgb(136, 195, 188);
+}
+
+.fondotenis{
+    background-color: rgb(163, 230, 203);
+}
+.royer{
+    margin-left: 450px;
+}
+.pelotas{
+    margin-left: 100px;
+}
